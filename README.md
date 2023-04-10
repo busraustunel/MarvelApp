@@ -16,7 +16,7 @@ Android için çalıştırın: react-native run-android
 Uygulamayı çalıştırdıktan sonra, ana sayfa sizi karşılayacak ve karakterler ve çizgi romanlar için ayrı ayrı sekmeler olacak. Kullanıcılar, arama kutusuna aramak istedikleri karakterin veya çizgi romanın adını girebilirler. Ayrıca listeden istedikleri karaktere tıklayıp detayına gidebilirler.
 
 ## API
-Bu uygulama, Marvel Comics API'sini kullanır. API anahtarınızı almak için buraya tıklayın.
+Bu uygulama, Marvel Comics API'sini kullanır. API'ye buradan ulaşabilirsiniz: https://developer.marvel.com/
 
 
 
