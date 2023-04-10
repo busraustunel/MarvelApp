@@ -18,6 +18,11 @@ Uygulamayı çalıştırdıktan sonra, ana sayfa sizi karşılayacak ve karakter
 ## API
 Bu uygulama, Marvel Comics API'sini kullanır. API'ye buradan ulaşabilirsiniz: https://developer.marvel.com/
 
+## UYGULAMA
+![Marvel App](https://github.com/busraustunel/MarvelApp/blob/main/MarvelApp.gif)
+
+
+
 
 
 
